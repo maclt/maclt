@@ -1,5 +1,5 @@
-## Hi, there 👋
-I'm a software engineer based in Tokyo 🗼
+## Hi, I'm Taro 👋
+A software engineer based in Tokyo 🗼
 
 ## Links 🔗
 <a href="https://maclt.substack.com/" target="_blank">🔗 - Blog</a>
