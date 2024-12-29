@@ -1,7 +1,7 @@
 ## Hi, there 👋
-I'm a software engineer based in Tokyo <span style="font-size:160px;">🗼</span>
+I'm a software engineer based in Tokyo 🗼
 
-## Links
+## Links 🔗
 <a href="https://maclt.substack.com/" target="_blank">🔗 - Blog</a>
 
 <a href="https://www.linkedin.com/in/taro-murakami" target="_blank">🔗 - LinkedIn</a>
@@ -11,8 +11,8 @@ I'm a software engineer based in Tokyo <span style="font-size:160px;">🗼</span
 <a href="https://docs.google.com/document/d/1-PRG-dez0jRLUL9A79XlZx6e-4u3QXRmKiUemG83vR8/edit?usp=sharing" target="_blank">🔗 - 職務経歴書</a>
 
 ## Activities
-### Meetup 
-I host a meetup "Learning software Tokyo". <a href="https://www.meetup.com/learning-software-tokyo/" target="_blank">🔗 link</a>
+### Meetup 🧑‍💻🧑‍💻🧑‍💻
+I host a meetup <a href="https://www.meetup.com/learning-software-tokyo/" target="_blank">"Learning software Tokyo"</a>.
 
 ## GitHub Stats 📊
 
