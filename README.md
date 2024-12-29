@@ -16,5 +16,6 @@ I host a meetup <a href="https://www.meetup.com/learning-software-tokyo/" target
 
 ## GitHub Stats 📊
 
-| ![Taro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maclt&theme=white&show_icons=true)  | ![Taro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maclt&background=ffffff&hide_border=true) |
-| ------------- | ------------- |
+| ![Taro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maclt&background=ffffff&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maclt&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
+| -- | -- |
+
