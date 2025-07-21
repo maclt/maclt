@@ -4,7 +4,7 @@ A software engineer based in Tokyo 🗼
 ## Links 🔗
 <a href="https://maclt.substack.com/" target="_blank">🔗 - Blog</a>
 
-<a href="https://github.com/maclt" target="_blank">🔗 - Self Introduction</a>
+<a href="https://github.com/maclt/maclt" target="_blank">🔗 - Self Introduction</a>
 
 <a href="https://www.linkedin.com/in/taro-murakami" target="_blank">🔗 - LinkedIn</a>
 
