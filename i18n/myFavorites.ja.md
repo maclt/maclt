@@ -87,7 +87,7 @@
 #### ジャンル
  - ジャマイカ音楽
  - ハロプロ
- − City Pop
+ - City Pop
  - Contemporary R&B
 
 #### アーティスト
